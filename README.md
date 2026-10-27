@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Monster is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://monster.com/
+Monster is a global leader in connecting people and jobs. For over 30 years, Monster has transformed the recruiting industry by providing advanced technology, digital, social and mobile solutions that help employers find the right candidates and job seekers find the right fit. The company operates the flagship website Monster.com and offers a suite of products and services to improve workplace productivity and hiring outcomes.
+
+**Areas:** Company · Employment · Recruiting · Technology · JobSearch · HR
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://monster.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/monster/](https://apis.io/providers/monster/).
